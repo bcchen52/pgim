@@ -1,0 +1,6 @@
+a. Merge conflict caused when local and remote copies have conflicting changes when merged. 
+b. Travel vlogger. 
+c. Git add, commit, push. 
+d. Spanish. 
+e. Connect to remote, and git add. 
+f. Going to the poconos and eating a watermelon.
